@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KuberTheGreat
-- 👀 I’m interested in creating
-- 🌱 I’m currently learning javascript / jsx
+- 👀 I’m interested in creating new innovative things
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
