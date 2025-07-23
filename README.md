@@ -79,8 +79,8 @@ I thrive in hackathons and love working on systems that blend **tech, creativity
 ## 🌐 Let’s Connect
 
 - 🐦 Twitter: [@kuberkhandare](https://twitter.com/kuberkhandare)
-- 💼 LinkedIn: [Kuber Khandare]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/mynetwork/grow/))
-- 🌍 Portfolio: [kuber-khandare.com]([https://your-portfolio.com](https://kuber-portfolio.vercel.app))
+- 💼 LinkedIn: [Kuber Khandare](https://linkedin.com/in/yourhandle)
+- 🌍 Portfolio: [kuber-khandare.com](https://kuber-portfolio.vercel.app)
 
 ---
 
