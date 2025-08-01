@@ -98,4 +98,3 @@ I thrive in hackathons and love working on systems that blend **tech, creativity
 ---
 
 > _“The future is decentralized, and I’m here to code it into reality.”_  
-> _Lexi-approved 💖_
