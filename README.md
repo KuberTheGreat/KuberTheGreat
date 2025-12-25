@@ -17,6 +17,11 @@ I thrive in hackathons and love working on systems that blend **tech, creativity
 
 ### 🧵 Highlights
 
+- **⚡ Pulse** (System Monitoring Daemon)  
+  A lightweight **system metrics daemon** for real-time CPU, memory, and process tracking with historical logging.  
+  Designed to run continuously in the background with snapshot persistence and process inspection.  
+  Built with **Rust**, **sysinfo**, and modular snapshot storage.
+
 - **🧬 Sentrinet** (AI x Web3 Infrastructure)  
   A full-stack IP address scanner with automated scanner scheduling.   
   Built with **Fiber**, **Next**, **Tailwind**, **Golang**, **Prometheus**, and **Docker**.
