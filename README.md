@@ -122,9 +122,8 @@ I thrive in hackathons and love working on systems that blend **tech, creativity
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuberTheGreat&show_icons=true&theme=radical" alt="Kuber's GitHub stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuberTheGreat&theme=tokyonight"/>
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KuberTheGreat&theme=radical" />
 </p>
 
 ---
